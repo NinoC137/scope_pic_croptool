@@ -1,0 +1,28 @@
+# macOS and editor metadata
+.DS_Store
+.AppleDouble
+._*
+*.swp
+*.swo
+
+# Python cache and test/tooling artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# Local Python environments and packaging outputs
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.temp
+
